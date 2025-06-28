@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="Header_1">Deepak Singh</string>
+    <string name="Header_2">Android Developer</string>
+    <string name="Footer_1">+11 (123) 444 555 666</string>
+    <string name="Footer_2">\@AndroidDev</string>
+    <string name="Footer_3">deepaksingh.dev@gmail.com</string>
+</resources>
