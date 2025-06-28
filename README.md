@@ -74,7 +74,7 @@ Ideas and improvements are always welcome!
 
 ## 📃 License
 
-Add a license to let others use or contribute to your project!
+This project is for learning and demonstration purposes only.
 
 ---
 
