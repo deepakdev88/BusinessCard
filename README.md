@@ -74,7 +74,7 @@ Ideas and improvements are always welcome!
 
 ## 📃 License
 
-This project is for learning and demonstration purposes only.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
