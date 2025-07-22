@@ -7,7 +7,8 @@ Showcase your profile, contact info, and branding in a single screen—simple, s
 
 ## 📱 Preview
 
-![Screenshot_20250628_103906_BusinessCard](https://github.com/user-attachments/assets/64a63354-4d57-44c5-af89-8c8c4befd066)
+![Business Card Screenshot](BusinessCard.jpg)
+
 
 
 ---
